@@ -1,0 +1,5 @@
+prebuilt_font {
+    name: "Inter-VF.ttf",
+    src: "Inter-VF.ttf",
+    product_specific: true,
+}
