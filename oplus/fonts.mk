@@ -17,7 +17,7 @@
 # get installed too.
 
 PRODUCT_PACKAGES := \
-    OnePlusSans-Black.ttf \ 
+    OnePlusSans-Black.ttf \
     OnePlusSans-BlackItalic.ttf \
     OnePlusSans-Bold.ttf \
     OnePlusSans-BoldItalic.ttf \
